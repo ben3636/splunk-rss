@@ -9,7 +9,7 @@ The app ships with more than a few out-of-the-box RSS sources I keep tabs on per
 # Demo
 ![Alt text](Demo1.png)
 
-The above screenshot shows the apps' main dashboard that shows basic information about the collected RSS data and provides an easy mechanism to search it.
+The above screenshot shows the app's main dashboard that shows basic information about the collected RSS data and provides an easy mechanism to search it.
 
 ---
 ![Alt text](Demo2.png)
